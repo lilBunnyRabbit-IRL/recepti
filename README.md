@@ -1,1 +1,2 @@
-# recepti
+# Recepti
+- (Lazanja)[./lazanja/lazanja.md]
