@@ -1,2 +1,2 @@
 # Recepti
-- (Lazanja)[./lazanja/lazanja.md]
+- [Lazanja](./lazanja/lazanja.md)
